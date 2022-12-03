@@ -1,5 +1,6 @@
 # HomePlanner
 아파트를 찾고 구매 계획을 세워주는 HomePlanner 서비스 입니다.
+![파이널-프로젝트-썸네일-001](https://user-images.githubusercontent.com/79705809/205434133-87e4d9be-4e99-4694-a096-e9cf243895a6.png)
 
 ### 가이드 영상
 https://youtu.be/UyOa3QpjnwQ
